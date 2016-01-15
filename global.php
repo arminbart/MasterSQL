@@ -4,6 +4,7 @@ function get_sql_param($name)
 {
 	$value = trim($_POST[$name]);
 
+
 //	echo "$name = '$value'<br>";
 
 //	if (strpos($value, "'") !== false)
